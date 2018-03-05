@@ -7,3 +7,6 @@
 [submodule "hasher"]
 	path = hasher
 	url = https://github.com/eunomie/dockercoins-hasher
+[submodule "worker"]
+	path = worker
+	url = https://github.com/eunomie/dockercoins-worker
