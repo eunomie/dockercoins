@@ -4,3 +4,6 @@
 [submodule "rng"]
 	path = rng
 	url = https://github.com/eunomie/dockercoins-rng
+[submodule "hasher"]
+	path = hasher
+	url = https://github.com/eunomie/dockercoins-hasher
