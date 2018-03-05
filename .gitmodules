@@ -1,3 +1,6 @@
 [submodule "webui"]
 	path = webui
 	url = https://github.com/eunomie/dockercoins-webui
+[submodule "rng"]
+	path = rng
+	url = https://github.com/eunomie/dockercoins-rng
